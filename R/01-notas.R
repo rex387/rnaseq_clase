@@ -25,3 +25,6 @@ dev.off()
 ## Para reproducir mi código
 options(width = 120)
 sessioninfo::session_info()
+
+## Puedo modificar?
+
